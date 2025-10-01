@@ -1,8 +1,10 @@
-# Package List for Levi45 Addons
+# Levi45 Addons Repository
 # Format: filename|Package Name|Description
+# One package per line
 
-levi45-plugin_1.0_all.ipk|Levi45 Main Plugin|Main plugin for Levi45 addons system
-levi45-skins_1.0_all.tar.gz|Levi45 Skins|Collection of Levi45 skins
-levi45-dreambox_1.0_all.deb|Levi45 Dreambox|Dreambox specific components
-weather-plugin_2.1_all.ipk|Weather Plugin|Advanced weather forecast plugin
-iptv-player_3.0_all.tar.gz|IPTV Player|Live TV and VOD player
+levi45-dreambox_1.0_all.deb|Levi45 Dreambox Addon|Special addon for Dreambox devices with enhanced features
+levi45-skins_1.5_all.tar.gz|Levi45 Skins Pack|Beautiful skin collection optimized for Dreambox
+weather-dm_2.1_all.deb|Weather Plugin DM|Weather forecast plugin for Dreambox
+iptv-dreambox_3.0_all.tar.gz|IPTV Player DM|Advanced IPTV player for Dreambox devices
+levi45-main_1.0_all.ipk|Levi45 Main Plugin|Main plugin for Levi45 addons system
+levi45-weather_2.1_all.ipk|Levi45 Weather|Advanced weather forecast with multiple sources
